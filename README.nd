@@ -1,0 +1,3 @@
+1 order to sign signature : go run ./sign/sign.go
+
+2 order to verify signature : go run ./verify/verify.go X-signature
